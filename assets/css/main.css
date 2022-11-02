@@ -1049,6 +1049,9 @@ a:hover {
     padding: 0
 }
 
+.mandala-header {
+    background: url(../img/what-is-mandela.jpg) center / cover repeat-x;
+}
 
 
 
